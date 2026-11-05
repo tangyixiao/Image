@@ -1,0 +1,27 @@
+{
+  "repo": "tangyixiao/Image",
+  "sourceBranch": "main",
+  "sourceCommit": null,
+  "media": [
+    {
+      "src": "assets/media/photo-1.webp",
+      "alt": "GitHub 头像图像",
+      "url": "https://github.com/tangyixiao/Image/blob/main/github_old_avatar_corrected_512.png"
+    },
+    {
+      "src": "assets/media/photo-2.webp",
+      "alt": "神圣罗马帝国双头鹰图像",
+      "url": "https://github.com/tangyixiao/Image/blob/main/Holy_Roman_Emperor.png"
+    },
+    {
+      "src": "assets/media/photo-3.webp",
+      "alt": "路德维希·维特根斯坦肖像",
+      "url": "https://github.com/tangyixiao/Image/blob/main/Ludwig_Wittgenstein.jpg"
+    }
+  ],
+  "skills": [
+    "baoyu-design",
+    "design-taste-frontend"
+  ],
+  "design": "content-first source/product/photography; no rejected template or faux 3D"
+}
