@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Image",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "皇金、炭黑与肖像灰的个人图片柜：以真实双头鹰图像的金色作为大色面，黑白肖像与棋盘式头像各占独立画幅，彼此不强行编成品牌故事。事实边界：基于 PicGo 的公开图床仓库，不是图片编辑、压缩或上传平台；不替图片推断授权范围。",
+    "layout": "folio",
+    "palette": {
+      "light": {
+        "bg": "#E8DDB8",
+        "surface": "#F7EDCD",
+        "ink": "#302D25",
+        "muted": "#69614a",
+        "accent": "#785d18"
+      },
+      "dark": {
+        "bg": "#252116",
+        "surface": "#3A321E",
+        "ink": "#F4E9C7",
+        "muted": "#bcad7d",
+        "accent": "#e7c45b"
+      }
+    },
+    "threeConcept": "Three.js 制作一座有三种尺寸画槽的暗木图片柜，金色图案、黑白肖像和头像分别以原图平面装裱；柜门可以打开，不重建人物或图徽。",
+    "distinctiveInteraction": "点击画槽切换到完整原图与真实 GitHub 文件页；提供文件名排序，保留来源说明，不提供不存在的在线上传入口。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "GitHub 头像图像",
-      "url": "https://github.com/tangyixiao/Image/blob/main/github_old_avatar_corrected_512.png"
+      "url": "https://github.com/tangyixiao/Image/blob/main/github_old_avatar_corrected_512.png",
+      "path": "github_old_avatar_corrected_512.png"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "神圣罗马帝国双头鹰图像",
-      "url": "https://github.com/tangyixiao/Image/blob/main/Holy_Roman_Emperor.png"
+      "url": "https://github.com/tangyixiao/Image/blob/main/Holy_Roman_Emperor.png",
+      "path": "Holy_Roman_Emperor.png"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "路德维希·维特根斯坦肖像",
-      "url": "https://github.com/tangyixiao/Image/blob/main/Ludwig_Wittgenstein.jpg"
+      "url": "https://github.com/tangyixiao/Image/blob/main/Ludwig_Wittgenstein.jpg",
+      "path": "Ludwig_Wittgenstein.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
