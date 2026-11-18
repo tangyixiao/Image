@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "description": "This public image host stores images managed with PicGo. Each image has its own path so a reference can be matched to the file it uses."
+  },
+  "pages": {
+    "home": {
+      "title": "Browse the PicGo image host · {project}"
+    },
+    "features": {
+      "title": "Features · {project}",
+      "description": "This public image host stores images managed with PicGo. Each image has its own path so a reference can be matched to the file it uses."
+    },
+    "download": {
+      "title": "Get started · {project}",
+      "description": "The example opens a historical avatar file in GitHub’s image preview."
+    },
+    "community": {
+      "title": "Community · {project}",
+      "description": "Find usage guidance, follow discussions and review changes to this project."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "download": "Get started",
+    "community": "Community"
+  },
+  "ui": {
+    "skip_link": "Skip to main content",
+    "navigation": "Main navigation",
+    "open_navigation": "Open navigation",
+    "close_navigation": "Close navigation",
+    "language": "Choose language",
+    "theme": "Choose theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "platforms": "Supported platforms",
+    "github": "GitHub",
+    "view_image": "View full illustration",
+    "feature_more": "Explore features",
+    "download": "Open the sample image",
+    "release_notes": "Source repository",
+    "documentation": "Documentation",
+    "source": "Source repository",
+    "illustration": "First steps",
+    "license": "Source and usage terms"
+  },
+  "hero": {
+    "title": [
+      "Browse the PicGo image host"
+    ],
+    "description": [
+      "This public image host stores images managed with PicGo. Each image has its own path so a reference can be matched to the file it uses."
+    ],
+    "primary_action": "Open the sample image",
+    "secondary_action": "Explore features"
+  },
+  "preview": {
+    "caption": "First steps",
+    "tabs": [
+      {
+        "label": "Get started",
+        "icon": "book"
+      }
+    ],
+    "items": [
+      {
+        "title": "Open a sample",
+        "description": "The example opens a historical avatar file in GitHub’s image preview.",
+        "icon": "book"
+      },
+      {
+        "title": "Browse the directory",
+        "description": "Use the breadcrumb to return to the parent folder and find another filename.",
+        "icon": "link"
+      }
+    ]
+  },
+  "features": {
+    "title": "Project features",
+    "groups": [
+      {
+        "title": "View one image",
+        "description": "Open a PNG or JPEG file page to see its preview and exact filename.",
+        "detail": "",
+        "icon": "layers"
+      },
+      {
+        "title": "Trace an old reference",
+        "description": "Match the name at the end of an existing URL, including its extension, with a file in the repository.",
+        "detail": "",
+        "icon": "book"
+      }
+    ]
+  },
+  "getting_started": {
+    "title": "Get started · {project}",
+    "steps": [
+      {
+        "title": "Open a sample",
+        "description": "The example opens a historical avatar file in GitHub’s image preview.",
+        "icon": "book"
+      },
+      {
+        "title": "Browse the directory",
+        "description": "Use the breadcrumb to return to the parent folder and find another filename.",
+        "icon": "link"
+      }
+    ]
+  },
+  "community": {
+    "title": "Community · {project}",
+    "description": "Find usage guidance, follow discussions and review changes to this project.",
+    "links": [
+      {
+        "label": "Help and feedback",
+        "description": "Browse existing reports or describe a reproducible problem.",
+        "icon": "book"
+      },
+      {
+        "label": "Source repository",
+        "description": "Find the project and its maintenance links.",
+        "icon": "link"
+      },
+      {
+        "label": "Review changes",
+        "description": "Review open pull requests or prepare a contribution.",
+        "icon": "code"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "{copyright}"
+  }
+}
